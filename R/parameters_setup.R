@@ -1,5 +1,6 @@
 library(dplyr)
 library(tidyr)
+library(purrr)
 library(ggplot2)
 
 set.seed(123)
